@@ -1,3 +1,9 @@
+title: My Portfolio Website
+description: A clean showcase of my software and IT projects.
+
+# Defines the theme from GitHub
 remote_theme: pages-themes/time-machine@v0.2.0
+
+# Tells Jekyll to process files properly
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
